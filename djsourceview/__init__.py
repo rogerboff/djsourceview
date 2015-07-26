@@ -21,6 +21,6 @@
 #
 # Author: Roger Pereira Boff <rogerboff@gmail.com>
 #
-__version__ = '0.1.3'
+__version__ = '0.1.4'
 __author__ = 'Roger Pereira Boff'
 __email__ = 'rogerboff@gmail.com'

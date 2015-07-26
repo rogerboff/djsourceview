@@ -23,7 +23,7 @@
 #
 from django.conf.urls import url
 
-from djsourceview import DjSourceView
+from djsourceview.views import DjSourceView
 
 urlpatterns = [
     url(r'^(?P<url>.*)\.sourceview', DjSourceView.as_view(), name='djsourceview'),
